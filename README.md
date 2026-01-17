@@ -30,8 +30,7 @@
 
 ## 📫 Contact Me
 - Email: tanujakhandare50@gmail.com
-- LinkedIn: linkedin.com/in/tanuja-khandare-78061a322/
-
+- LinkedIn: https://www.linkedin.com/in/tanuja-khandare-78061a322/
 ---
 
 ⭐ Thank you for visiting my GitHub profile!
